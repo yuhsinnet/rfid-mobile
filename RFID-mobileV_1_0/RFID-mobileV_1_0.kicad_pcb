@@ -1996,7 +1996,7 @@
 
   (footprint "RF_Antenna:433MHz_V" (layer "F.Cu")
     (tedit 0) (tstamp d7271bdf-c0f4-4c95-b564-c54e73fe1e7b)
-    (at 84.836 90.424 180)
+    (at 84.963 90.6018 180)
     (property "Sheetfile" "RFID-mobileV_1_0.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
@@ -2851,9 +2851,8 @@
   (gr_arc locked (start 66.16277 161.39279) (mid 64.73449 161.282141) (end 64.050435 160.023467) (layer "Edge.Cuts") (width 0.2) (tstamp fd389af3-ce5a-4a1c-ab0b-0b197ac6e6a6))
   (gr_circle locked (center 110.407996 100.913642) (end 113.407996 100.913642) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp ff2dd89a-1e5c-4ec7-9a7f-6adf3b029a6f))
 
-  (segment (start 77.016 91.494) (end 77.016 98.417) (width 0.25) (layer "F.Cu") (net 1) (tstamp 1a6097cd-32eb-4d02-9bb6-bfbc5256bc11))
-  (segment (start 76.8975 91.186) (end 76.8975 91.3755) (width 0.25) (layer "F.Cu") (net 1) (tstamp d6acf8d4-14c3-4839-8799-c3a6ad76eb5b))
-  (segment (start 76.8975 91.3755) (end 77.016 91.494) (width 0.25) (layer "F.Cu") (net 1) (tstamp d7919d24-8e19-4203-9e04-35391faa64e6))
+  (segment (start 77.016 91.3723) (end 77.016 98.417) (width 0.25) (layer "F.Cu") (net 1) (tstamp 59e78f85-3614-4f56-9696-d3871a72470b))
+  (segment (start 77.0245 91.3638) (end 77.016 91.3723) (width 0.25) (layer "F.Cu") (net 1) (tstamp 95c6a0ee-0f1b-4572-a8b0-b6271639d422))
   (segment (start 78.867 158.4995) (end 78.867 160.401) (width 0.6) (layer "F.Cu") (net 2) (tstamp 173c28cc-e9f0-43bb-96da-f7ddb3bb0e94))
   (segment (start 74.102 145.984) (end 76.2 145.984) (width 0.6) (layer "F.Cu") (net 2) (tstamp 1ec95ad3-f011-4898-a4dd-3581a48e6b2f))
   (segment (start 78.232 156.21) (end 78.232 153.924) (width 0.6) (layer "F.Cu") (net 2) (tstamp 2b1e256f-0192-4704-8c71-91ff538af3ae))
