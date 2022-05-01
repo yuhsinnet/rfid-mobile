@@ -3729,7 +3729,7 @@
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 87.63 89.535 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "LCSC" "C909754" (id 4) (at 97.155 92.71 0))
+    (property "LCSC" "C20526" (id 4) (at 97.155 92.71 0))
     (pin "1" (uuid 0e38125d-d14a-471b-ad95-4e5aa415d0e8))
     (pin "2" (uuid dfb6181b-227c-4467-9076-373923544b82))
     (pin "3" (uuid b6f9e778-4112-46b5-962f-924bfe108786))
